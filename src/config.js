@@ -1,4 +1,4 @@
-export const baseURL = 'https://adalo-stripe-v2.herokuapp.com'
+export const baseURL = 'https://stripe-v2.adalo.com'
 
 export const paymentURL = `${baseURL}/processstripepymt`
 export const customerURL = `${baseURL}/customers`
