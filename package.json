@@ -63,7 +63,7 @@
     "babel-eslint": "^10.0.3",
     "color": "^3.1.0",
     "moment": "^2.24.0",
-    "qs": "^6.6.0",
+    "qs": "^6.6.1",
     "react-native-credit-card": "^0.1.9",
     "react-native-credit-card-input": "^0.4.1",
     "react-native-hyperlink": "^0.0.14",
